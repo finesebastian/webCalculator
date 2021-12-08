@@ -1,11 +1,11 @@
-"""Multiplication Class"""
+"""Imports Calculation"""
 from calc.calculations.calculation import Calculation
 
 class Multiplication(Calculation):
-    """subtraction calculation object"""
+    """This is the multiplication class"""
     def get_result(self):
-        """get the multiplication results"""
-        result = 1.0
+        """Return the product of value_a and value_b"""
+        sum_of_values = 1.0
         for value in self.values:
-            result = result * value
-        return result
+            sum_of_values = sum_of_values * value
+        return sum_of_values
