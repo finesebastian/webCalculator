@@ -1,10 +1,2 @@
-# Calculator Project Setup
-[![Build Status](https://app.travis-ci.com/kaw393939/calc2.svg?branch=main)](https://app.travis-ci.com/kaw393939/calc2)
-
-To run tests, Lint, and Coverage report use this command:
-
-pytest  --pylint --cov
-
-.pylintrc is the config for pylint
-.coveragerc is the config for coverage
-setup.py is a config file for pytest
+Web Calculator Example for IS601
+![CalculatorFlashMessaging](https://user-images.githubusercontent.com/90281032/145144713-b2d6960b-e1f4-494e-b369-8189d4c0653a.JPG)
